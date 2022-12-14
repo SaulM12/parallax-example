@@ -319,6 +319,13 @@ a {
     animation-delay: 2.5s, 1s
 }
 
+.free{
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    color: rgb(197, 163, 253);
+}
+
 .snowflake:nth-of-type(8) {
     left: 80%;
     -webkit-animation-delay: 1s, 0s;
